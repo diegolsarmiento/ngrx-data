@@ -2,9 +2,7 @@
 ## Ngrx (with NgRx Data) 
 
 
-This course repository is updated to Angular v9 and NgRx 8:
-
-![Ngrx (with NgRx Data) - The Complete Guide](https://angular-university.s3-us-west-1.amazonaws.com/course-images/ngrx-v2.png)
+This repository is updated to Angular v9 and NgRx 8.
 
 
 # Installation pre-requisites
@@ -34,8 +32,6 @@ This repository is made of several separate npm modules, that are installable se
 Its also possible to install the modules as usual using npm:
 
     npm install 
-
-This should take a couple of minutes. If there are issues, please post the complete error message in the Questions section of the course.
 
 # To Run the Development Backend Server
 
